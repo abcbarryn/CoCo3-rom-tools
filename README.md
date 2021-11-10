@@ -25,4 +25,5 @@ This is the position and default value of the bytes that set the foreground and
 background color of the CTRL-ALT-reset screen.
 
 C1FA,offset 16890 decimal 41FA hex=palette 10 value of $09, dark blue foreground
+
 C1FF,offset 16895 decimal 41FF hex=palette 11 value of $3F, white background
